@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Koberl at Blue</title>
+    Koberl at Blue
 </head>
 <body>
 <h1>Koberl at Blue</h1>
